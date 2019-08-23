@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1566572504507" stop="1566572517618" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : home</name>
+    <title>Default Suite : home</title>
+    <test-cases>
+        <test-case start="1566572517606" stop="1566572517611" status="passed">
+            <name>checkStatus</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="home"/>
+                <label name="testClass" value="Tests.Test_MainPage"/>
+                <label name="testMethod" value="checkStatus"/>
+                <label name="host" value="W16_RYBCHENKO"/>
+                <label name="thread" value="2340@W16_RYBCHENKO.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

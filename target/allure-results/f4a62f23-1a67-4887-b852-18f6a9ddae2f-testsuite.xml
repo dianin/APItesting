@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1565801315811" stop="1565801377888" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : home</name>
+    <title>Default Suite : home</title>
+    <test-cases>
+        <test-case start="1565801324180" stop="1565801377881" status="passed">
+            <name>alphabetOrder</name>
+            <title>Verify filter book</title>
+            <description type="text">Verify alphabet order</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="home"/>
+                <label name="testClass" value="Tests.Test_MainPage"/>
+                <label name="testMethod" value="alphabetOrder"/>
+                <label name="host" value="W16_RYBCHENKO"/>
+                <label name="thread" value="20232@W16_RYBCHENKO.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

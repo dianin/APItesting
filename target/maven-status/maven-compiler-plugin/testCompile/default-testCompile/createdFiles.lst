@@ -1,0 +1,7 @@
+Utils\getProperty.class
+Utils\TestListener.class
+Utils\WaitHandler.class
+Utils\RetryAnalizer.class
+Pages\MainNoAuthorizedPage.class
+Tests\Test_Authorization.class
+Utils\WaitHandler$ElementStatus.class
