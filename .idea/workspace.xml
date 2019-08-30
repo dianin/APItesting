@@ -18,26 +18,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Tests/Test_MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="77" column="128" selection-start-line="77" selection-start-column="128" selection-end-line="77" selection-end-column="128" />
+            <state relative-caret-position="369">
+              <caret line="112" column="47" lean-forward="true" selection-start-line="112" selection-start-column="47" selection-end-line="112" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1521#1522#0" expanded="true" />
-                <element signature="e#1604#1605#0" expanded="true" />
-                <element signature="e#1716#1717#0" expanded="true" />
-                <element signature="e#1778#1779#0" expanded="true" />
-                <element signature="e#1843#1844#0" expanded="true" />
-                <element signature="e#1873#1874#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/json-schema-validator/4.0.0/json-schema-validator-4.0.0.jar!/io/restassured/module/jsv/JsonSchemaValidator.class">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Models/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+            <state relative-caret-position="315">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -45,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
+            <state relative-caret-position="833">
+              <caret line="111" column="21" selection-start-line="111" selection-start-column="21" selection-end-line="111" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -54,39 +48,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Utils/RestUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-753">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-                <element signature="e#675#676#0" expanded="true" />
-                <element signature="e#704#705#0" expanded="true" />
-                <element signature="e#574#575#0" expanded="true" />
-                <element signature="e#616#617#0" expanded="true" />
-                <element signature="e#658#659#0" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
-                <element signature="e#802#803#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Utils/Util.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="518">
+              <caret line="56" column="23" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
+                <element signature="e#621#622#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#712#713#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#795#796#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,7 +78,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -129,10 +104,12 @@
         <option value="$PROJECT_DIR$/src/test/java/Data/FilterElements.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/BasePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/MainPage.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Data/person.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Utils/RestUtil.java" />
         <option value="$PROJECT_DIR$/src/test/java/Utils/Util.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Utils/RestUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/User.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Models/User.java" />
         <option value="$PROJECT_DIR$/src/test/java/Tests/Test_MainPage.java" />
       </list>
     </option>
@@ -166,11 +143,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-119" />
-    <option name="y" value="215" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="84" />
+    <option name="y" value="10" />
     <option name="width" value="1535" />
-    <option name="height" value="979" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -178,8 +155,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,6 +218,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,7 +227,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/SMDTests/home" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -280,7 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Test_MainPage">
+  <component name="RunManager" selected="TestNG.Test_MainPage.addUser">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -324,7 +301,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_MainPage" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Test_MainPage.addUser" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="WebTesting" />
       <extension name="coverage">
         <pattern>
@@ -334,25 +311,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="Tests" />
       <option name="MAIN_CLASS_NAME" value="Tests.Test_MainPage" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test_MainPage.checkForUser" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="WebTesting" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Tests" />
-      <option name="MAIN_CLASS_NAME" value="Tests.Test_MainPage" />
-      <option name="METHOD_NAME" value="checkForUser" />
+      <option name="METHOD_NAME" value="addUser" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -361,7 +320,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_MainPage.verifyJsonBody" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Test_MainPage.put_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="WebTesting" />
       <extension name="coverage">
         <pattern>
@@ -371,7 +330,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="Tests" />
       <option name="MAIN_CLASS_NAME" value="Tests.Test_MainPage" />
-      <option name="METHOD_NAME" value="verifyJsonBody" />
+      <option name="METHOD_NAME" value="put_test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -380,7 +339,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_MainPage.verifyOnlySixPeopleReturned" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Test_MainPage.put_test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="WebTesting" />
       <extension name="coverage">
         <pattern>
@@ -390,7 +349,26 @@
       </extension>
       <option name="PACKAGE_NAME" value="Tests" />
       <option name="MAIN_CLASS_NAME" value="Tests.Test_MainPage" />
-      <option name="METHOD_NAME" value="verifyOnlySixPeopleReturned" />
+      <option name="METHOD_NAME" value="put_test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_MainPage.testPut" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Test_MainPage" />
+      <option name="METHOD_NAME" value="testPut" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -438,11 +416,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Test_MainPage" />
-        <item itemvalue="TestNG.Test_MainPage.verifyJsonBody" />
+        <item itemvalue="TestNG.Test_MainPage.addUser" />
+        <item itemvalue="TestNG.Test_MainPage.put_test2" />
+        <item itemvalue="TestNG.Test_MainPage.put_test" />
+        <item itemvalue="TestNG.Test_MainPage.testPut" />
         <item itemvalue="TestNG.Test_MainPage.verifyTimeToResponse" />
-        <item itemvalue="TestNG.Test_MainPage.verifyOnlySixPeopleReturned" />
-        <item itemvalue="TestNG.Test_MainPage.checkForUser" />
       </list>
     </recent_temporary>
   </component>
@@ -505,35 +483,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test_MainPage_checkForUser - 2019.08.23 at 19h 21m 04s.xml">
-      <configuration name="Test_MainPage.checkForUser" configurationId="TestNG" />
+    <history-entry file="Test_MainPage_put_test - 2019.08.27 at 17h 37m 10s.xml">
+      <configuration name="Test_MainPage.put_test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test_MainPage_checkForUser - 2019.08.23 at 19h 24m 38s.xml">
-      <configuration name="Test_MainPage.checkForUser" configurationId="TestNG" />
+    <history-entry file="Test_MainPage_put_test - 2019.08.27 at 17h 37m 34s.xml">
+      <configuration name="Test_MainPage.put_test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test_MainPage_checkForUser - 2019.08.23 at 19h 25m 34s.xml">
-      <configuration name="Test_MainPage.checkForUser" configurationId="TestNG" />
+    <history-entry file="Test_MainPage_put_test - 2019.08.27 at 17h 38m 12s.xml">
+      <configuration name="Test_MainPage.put_test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test_MainPage_verifyOnlySixPeopleReturned - 2019.08.23 at 20h 04m 04s.xml">
-      <configuration name="Test_MainPage.verifyOnlySixPeopleReturned" configurationId="TestNG" />
+    <history-entry file="Test_MainPage_put_test - 2019.08.27 at 17h 40m 50s.xml">
+      <configuration name="Test_MainPage.put_test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test_MainPage_verifyTimeToResponse - 2019.08.23 at 20h 09m 25s.xml">
-      <configuration name="Test_MainPage.verifyTimeToResponse" configurationId="TestNG" />
+    <history-entry file="Test_MainPage_put_test - 2019.08.27 at 17h 41m 57s.xml">
+      <configuration name="Test_MainPage.put_test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test_MainPage_verifyJsonBody - 2019.08.23 at 20h 30m 50s.xml">
-      <configuration name="Test_MainPage.verifyJsonBody" configurationId="TestNG" />
+    <history-entry file="Test_MainPage_put_test - 2019.08.27 at 17h 46m 55s.xml">
+      <configuration name="Test_MainPage.put_test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test_MainPage_verifyJsonBody - 2019.08.23 at 20h 32m 18s.xml">
-      <configuration name="Test_MainPage.verifyJsonBody" configurationId="TestNG" />
+    <history-entry file="Test_MainPage_put_test - 2019.08.27 at 17h 48m 24s.xml">
+      <configuration name="Test_MainPage.put_test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test_MainPage_verifyJsonBody - 2019.08.23 at 20h 32m 52s.xml">
-      <configuration name="Test_MainPage.verifyJsonBody" configurationId="TestNG" />
+    <history-entry file="Test_MainPage_put_test2 - 2019.08.27 at 18h 07m 47s.xml">
+      <configuration name="Test_MainPage.put_test2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test_MainPage_verifyJsonBody - 2019.08.23 at 20h 33m 59s.xml">
-      <configuration name="Test_MainPage.verifyJsonBody" configurationId="TestNG" />
+    <history-entry file="Test_MainPage_put_test2 - 2019.08.27 at 18h 08m 35s.xml">
+      <configuration name="Test_MainPage.put_test2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Test_MainPage_verifyJsonBody - 2019.08.23 at 20h 34m 41s.xml">
-      <configuration name="Test_MainPage.verifyJsonBody" configurationId="TestNG" />
+    <history-entry file="Test_MainPage_addUser - 2019.08.28 at 14h 38m 38s.xml">
+      <configuration name="Test_MainPage.addUser" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
@@ -543,7 +521,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29584223" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3033049" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -552,7 +530,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6865672" visible="true" weight="0.5124594" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6865672" visible="true" weight="0.45720476" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840087" weight="0.39761648" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -583,76 +561,11 @@
     <MESSAGE value="add allure" />
     <option name="LAST_COMMIT_MESSAGE" value="add allure" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Utils/RestUtil.java</url>
-          <line>55</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Utils/RestUtil.java</url>
-          <line>56</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Utils/RestUtil.java</url>
-          <line>57</line>
-          <properties />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/Utils/RestUtil.java</url>
-          <line>54</line>
-          <properties class="Utils.RestUtil" method="getResponse">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/MethodInvocationHelper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/TestRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="374" selection-start-line="374" selection-end-line="374" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="378" selection-start-line="378" selection-end-line="378" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/FluentWait.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sh.exe.stackdump">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1197" />
@@ -754,44 +667,10 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/Utils/RetryAnalizer.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Utils/getProperty.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Utils/ScreenshotListener.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/Data/FilterElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/BasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-          <folding>
-            <element signature="e#820#821#0" expanded="true" />
-            <element signature="e#872#873#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/BookDescriptionPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="98" column="64" selection-start-line="98" selection-start-column="64" selection-end-line="98" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Data/FilterElements.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/BasePage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/BookDescriptionPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/MainPage.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -802,13 +681,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Data/person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Data/person.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/org/hamcrest/Matcher.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -830,69 +703,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/json-schema-validator/4.0.0/json-schema-validator-4.0.0.jar!/io/restassured/module/jsv/JsonSchemaValidator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Utils/Util.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
+        <state relative-caret-position="147">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
             <element signature="e#322#323#0" expanded="true" />
             <element signature="e#364#365#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/4.0.0/rest-assured-4.0.0.jar!/io/restassured/RestAssured.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
+        <state relative-caret-position="88">
+          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar!/com/google/gson/JsonObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Utils/RestUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-753">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="518">
+          <caret line="56" column="23" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="23" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#378#379#0" expanded="true" />
             <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/json-schema-validator/4.0.0/json-schema-validator-4.0.0.jar!/io/restassured/module/jsv/JsonSchemaValidator.class">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+        <state relative-caret-position="833">
+          <caret line="111" column="21" selection-start-line="111" selection-start-column="21" selection-end-line="111" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Models/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/assertj/assertj-core/3.13.2/assertj-core-3.13.2.jar!/org/assertj/core/api/AbstractObjectAssert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="929">
+          <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/assertj/assertj-core/3.13.2/assertj-core-3.13.2.jar!/org/assertj/core/api/AssertionsForClassTypes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="306" column="24" selection-start-line="306" selection-start-column="24" selection-end-line="306" selection-end-column="24" />
+          <folding>
+            <element signature="e#10552#10553#0" expanded="true" />
+            <element signature="e#10594#10595#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Tests/Test_MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="77" column="128" selection-start-line="77" selection-start-column="128" selection-end-line="77" selection-end-column="128" />
+        <state relative-caret-position="369">
+          <caret line="112" column="47" lean-forward="true" selection-start-line="112" selection-start-column="47" selection-end-line="112" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1521#1522#0" expanded="true" />
-            <element signature="e#1604#1605#0" expanded="true" />
-            <element signature="e#1716#1717#0" expanded="true" />
-            <element signature="e#1778#1779#0" expanded="true" />
-            <element signature="e#1843#1844#0" expanded="true" />
-            <element signature="e#1873#1874#0" expanded="true" />
           </folding>
         </state>
       </provider>
